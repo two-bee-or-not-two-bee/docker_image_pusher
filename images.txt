@@ -1,3 +1,3 @@
 alpine:latest
 golang:1.22.2
-openeuler/openeuler
+openeuler/openeuler:22.03-lts-sp2
