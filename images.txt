@@ -1,3 +1,4 @@
 alpine:latest
 golang:1.22.2
 openeuler/openeuler:22.03-lts-sp2
+volcanosh/vc-webhook-manager
