@@ -3,3 +3,4 @@ golang:1.22.2
 openeuler/openeuler:22.03-lts-sp2
 volcanosh/vc-webhook-manager
 volcanosh/dist-mnist-tf-example:0.0.1
+golang:1.22.11
