@@ -4,3 +4,5 @@ openeuler/openeuler:22.03-lts-sp2
 volcanosh/vc-webhook-manager
 volcanosh/dist-mnist-tf-example:0.0.1
 golang:1.22.11
+gcr.io/kubeflow-ci/pytorch-dist-sendrecv-test:1.0
+gcr.io/spark-operator/spark:v3.0.0
